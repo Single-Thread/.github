@@ -23,20 +23,15 @@
 
 우리가 진행한 주요 프로젝트는 다음과 같습니다:
 
-- **프로젝트 1: [프로젝트 이름]**
-  - 설명: [간단한 프로젝트 설명]
-  - 기술 스택: [사용한 기술]
-  - 링크: [https://example.com](https://example.com)
+- **프로젝트 1: 메인 홈페이지**
+  - 설명: 싱글스레드 메인 페이지
+  - 기술 스택: Next.js Koa.js Tailwind...
+  - 링크: [싱글스레드](https://www.singlethread.studio/)
 
-- **프로젝트 2: [프로젝트 이름]**
-  - 설명: [간단한 프로젝트 설명]
-  - 기술 스택: [사용한 기술]
-  - 링크: [https://example.com](https://example.com)
-
-- **프로젝트 3: [프로젝트 이름]**
-  - 설명: [간단한 프로젝트 설명]
-  - 기술 스택: [사용한 기술]
-  - 링크: [https://example.com](https://example.com)
+- **프로젝트 2: 싱글스레드 클라우드**
+  - 설명: 클라우드 웹 메인페이지 및 콘솔
+  - 기술 스택: Next.js Koa.js Tailwind...
+  - 링크: [클라우드](https://cloud.singlethread.studio/)
 
 > 더 많은 프로젝트 정보는 [여기](https://www.singlethread.studio/)를 확인하세요.
 
